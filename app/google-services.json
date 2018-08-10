@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775253727533",
+    "firebase_url": "https://sahara-56945.firebaseio.com",
+    "project_id": "sahara-56945",
+    "storage_bucket": "sahara-56945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775253727533:android:3f101f8c40743f59",
+        "android_client_info": {
+          "package_name": "com.pakhigupta.sahara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775253727533-4mb9figie843s721qjcijs1h6fcrtng0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pakhigupta.sahara",
+            "certificate_hash": "e088d712f9ffcac9511bd47f2052d221ca72b9ed"
+          }
+        },
+        {
+          "client_id": "775253727533-r046djmou7an44bjgjnhvichmqp59nh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACuEErKpLSOXkU9StE3EI38mN4Zu5arhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775253727533-r046djmou7an44bjgjnhvichmqp59nh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
